@@ -2,6 +2,7 @@
 
 [Lynda's React.js Essential Training](https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html)
 
+
 ### Commands to remember
 
 * `npm init` to create package.json
@@ -56,3 +57,8 @@
 ### React and ReactDOM Dependencies 
 
 * `npm install react@15.3.2 --save` and `npm install react-dom@15.3.2 --save` which will enable you to not have to include the cdnjs scripts in your main `index.html` file
+
+
+### React + Firebase
+
+[A Firebase in React Tutorial for Beginners](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/)
