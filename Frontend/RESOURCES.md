@@ -33,6 +33,10 @@
 
 [React + Ecosystem](https://github.com/rwieruch?tab=repositories)
 
+###  React + Redux 
+
+[React + Redux for Beginners](https://www.valentinog.com/blog/react-redux-tutorial-beginners/)
+
 ### React Router
 
 [Getting Started with React Router](https://knowbody.github.io/react-router-docs/HowToStart.html)
