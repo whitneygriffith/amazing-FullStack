@@ -25,7 +25,20 @@
 [Complete REACT and Firebase](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/)
 [React Firebase Tutorial](https://appdividend.com/2017/07/22/react-firebase-tutorial/)
 
+[React + Firebase](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/)
+- [Code base](https://github.com/the-road-to-react-with-firebase/react-firebase-authentication/tree/65e6c18fb894b847fed0ab6f9bb042b310cfedc2)
+
+
+### React Eco-system
+
+[React + Ecosystem](https://github.com/rwieruch?tab=repositories)
 
 ### React Router
 
 [Getting Started with React Router](https://knowbody.github.io/react-router-docs/HowToStart.html)
+
+
+### React Native
+
+[React Native Firebase](https://rnfirebase.io/)
+- [React Native Firebase Code](https://github.com/invertase/react-native-firebase)
